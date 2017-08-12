@@ -1,6 +1,8 @@
 # psych-neuro-cs
 
-[![Join the chat at https://gitter.im/psych-neuro-cs/Lobby](https://badges.gitter.im/psych-neuro-cs/Lobby.svg)](https://gitter.im/psych-neuro-cs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/psych-neuro-cs/Lobby](https://badges.gitter.im/psych-neuro-cs/Lobby.svg)](https://gitter.im/psych-neuro-cs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) We are always open to your ideas or contributions. If you think we have missed something, please join the discussion on Gitter. 
+
+
 A reference guide to all the resources, projects, study material for those whose interests lie on the intersection of Psychology, Neuroscience and Computer Science 
 
 The individual folders on each topic contain our notes and commentary on each element
