@@ -70,5 +70,15 @@ PRIVATE LABS:
 20. MA Wheeler	
 21. E Tulving
 
+# Relevant Conferences
+1. COSYNE	
+2. NIPS	
+3. ICLR	
+4. Cognitive Computational Neuroscience	
+5. ICML	
+6. IJCNN	
+7. Bernstein Conference
+8. [ESANN](https://www.elen.ucl.ac.be/esann/)
+
 # Important Papers 
 
