@@ -48,6 +48,27 @@ PRIVATE LABS:
 # Top Challenges and Open Problems in the Field
 
 # Notable Researchers in the Field
+1. Terrence Sejnowiski	
+2. Patricia Churchland	
+3. Oriol Vinayls	
+4. Shakir Md.	
+5. Daniel Zoran	
+6. Paul Bloom	
+7. Charles Blundell	
+8. Benigno Uria	
+9. Alexander Pritzel	
+10. Demis Hassabis	
+11. Daan Wierstra	
+12. Rosalind Picard	
+13. Kay Tye	
+14. Alex Huk	
+15. Jürgen Schmidhuber	
+16. Sepp Hochreiter	
+17. Geoffrey E. Hinton	
+18. Marvin Minsky	
+19. TM Mitchell	
+20. MA Wheeler	
+21. E Tulving
 
 # Important Papers 
 
