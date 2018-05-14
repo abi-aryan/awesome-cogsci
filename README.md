@@ -14,7 +14,11 @@ The individual folders on each topic contain our notes and commentary on each el
 # Roadmap
 
 # Good Reads 
+
 NON-FICTION:
+1. Theoritical Neuroscience - Dayan, Abbott
+2. The Computational Brain by Terrence Sejnowiski & Patricia Churchland
+3. Collaborative learning: Cognitive and computational approaches by P Dillenbourg
 
 FICTION:
 
