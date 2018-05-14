@@ -25,10 +25,21 @@ FICTION:
 # MOOCs and Blogs You Must Follow
 
 # Become a Professional Researcher in the Subject 
+
 ACADEMIC LABS:
+
+1. IDSIA	
+2. MIT Media Lab	
+3. CSAIL	
+4. Salk Institute	
+5. Tye Lab	
+6. Rotman Research Institute	
+7. Gatsby Computational Neuroscience Unit
+8. UCL	Allen Institute for Brain Science	
 
 PRIVATE LABS: 
 
+1. Human Connectome Project
 
 # Global Projects and Funding Organisations
 
