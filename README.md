@@ -47,6 +47,7 @@ PRIVATE LABS:
 # Global Projects and Funding Organisations
 
 1. [White House Brain Initiative](http://www.braininitiative.org/)
+2. [Human Brain Project](https://www.humanbrainproject.eu/en/)
 
 # Top Challenges and Open Problems in the Field
 
