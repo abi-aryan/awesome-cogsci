@@ -25,6 +25,7 @@ FICTION:
 # MOOCs and Blogs You Must Follow
 
 1. [Neuroecology](https://neuroecology.wordpress.com/) by Adam J. Calhoun 
+2. [Simulation Neuroscience](https://www.edx.org/course/simulation-neuroscience-epflx-simneurox)
 
 # Become a Professional Researcher in the Subject 
 
@@ -46,6 +47,7 @@ PRIVATE LABS:
 # Global Projects and Funding Organisations
 
 1. [White House Brain Initiative](http://www.braininitiative.org/)
+2. [Human Brain Project](https://www.humanbrainproject.eu/en/)
 
 # Top Challenges and Open Problems in the Field
 
