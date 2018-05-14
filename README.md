@@ -24,6 +24,8 @@ FICTION:
 
 # MOOCs and Blogs You Must Follow
 
+1. [Neuroecology](https://neuroecology.wordpress.com/) by Adam J. Calhoun 
+
 # Become a Professional Researcher in the Subject 
 
 ACADEMIC LABS:
