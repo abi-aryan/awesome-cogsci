@@ -92,4 +92,4 @@ PRIVATE LABS:
 3. The Journal of Neuroscience Methods
 
 # Relevant Resources
-1. For asking questions [Psychology and Neuroscience beta - Stack Exchange] (https://psychology.stackexchange.com/)
+1. For asking questions [Psychology and Neuroscience beta - Stack Exchange](https://psychology.stackexchange.com/)
