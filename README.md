@@ -1,11 +1,10 @@
 # psych-neuro-cs
-We are always open to your ideas or contributions. If you think we have missed something, please join the discussion on Gitter. 
+
 [![Join the chat at https://gitter.im/psych-neuro-cs/Lobby](https://badges.gitter.im/psych-neuro-cs/Lobby.svg)](https://gitter.im/psych-neuro-cs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
+As the name goes, our aim is to create a reference guide for all the information that could serve as a great guiding point to someone who is getting started in research that lies at the interesection of these three beautifully meshed fields of Psychology, Neuroscience and Computer Science . 
 
-A reference guide to all the resources, projects, study material for those whose interests lie on the intersection of Psychology, Neuroscience and Computer Science 
-
-The individual folders on each topic contain our notes and commentary on each element
+Please feel free to contribute by opening a new issue or responding to existing ones. If you think we have missed something, please open a pull request. 
 
 # Why Study this Intersection? 
 
