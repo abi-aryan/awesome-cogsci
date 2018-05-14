@@ -25,6 +25,7 @@ FICTION:
 # MOOCs and Blogs You Must Follow
 
 1. [Neuroecology](https://neuroecology.wordpress.com/) by Adam J. Calhoun 
+2. [Simulation Neuroscience](https://www.edx.org/course/simulation-neuroscience-epflx-simneurox)
 
 # Become a Professional Researcher in the Subject 
 
