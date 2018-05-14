@@ -45,6 +45,8 @@ PRIVATE LABS:
 
 # Global Projects and Funding Organisations
 
+1. [White House Brain Initiative](http://www.braininitiative.org/)
+
 # Top Challenges and Open Problems in the Field
 
 # Notable Researchers in the Field
@@ -81,4 +83,10 @@ PRIVATE LABS:
 8. [ESANN](https://www.elen.ucl.ac.be/esann/)
 
 # Important Papers 
+1. [Cognitive Psychology for Deep Neural Network by Google Deep Mind](https://arxiv.org/abs/1706.08606)
+2. [Foraging for foundations in decision neuroscience: insights from ethology](https://www.nature.com/articles/s41583-018-0010-7)
 
+# Journals
+1. Nature
+2. Frontiers in Computational Neuroscience	
+3. The Journal of Neuroscience Methods
