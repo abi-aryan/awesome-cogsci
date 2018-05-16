@@ -21,6 +21,8 @@ NON-FICTION:
 3. Collaborative learning: Cognitive and computational approaches by P Dillenbourg
 
 FICTION:
+1. [The Man Who Mistook His Wife for a Hat and Other Clinical Tales](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales)
+2. [Phantoms in the Brain: Probing the Mysteries of the Human Mind](https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain)
 
 # MOOCs and Blogs You Must Follow
 
