@@ -1,11 +1,12 @@
 # psych-neuro-cs
-We are always open to your ideas or contributions. If you think we have missed something, please join the discussion on Gitter. 
-[![Join the chat at https://gitter.im/psych-neuro-cs/Lobby](https://badges.gitter.im/psych-neuro-cs/Lobby.svg)](https://gitter.im/psych-neuro-cs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
+[![Join the chat at https://gitter.im/psych-neuro-cs/Lobby](https://badges.gitter.im/psych-neuro-cs/Lobby.svg)](https://gitter.im/psych-neuro-cs/Lobby)
 
-A reference guide to all the resources, projects, study material for those whose interests lie on the intersection of Psychology, Neuroscience and Computer Science 
+[![Build Status](https://travis-ci.org/abi-aryan/psych-neuro-cs.svg?branch=master)](https://travis-ci.org/abi-aryan/psych-neuro-cs) 
 
-The individual folders on each topic contain our notes and commentary on each element
+As the name goes, our aim is to create a reference guide for all the information that could serve as a great guiding point to someone who is getting started in research that lies at the intersection of these three beautifully meshed fields of Psychology, Neuroscience and Computer Science . 
+
+Please feel free to contribute by opening a new issue or responding to existing ones. To start adding to this guide, please open a pull request. 
 
 # Why Study this Intersection? 
 
@@ -16,7 +17,7 @@ The individual folders on each topic contain our notes and commentary on each el
 # Good Reads 
 
 NON-FICTION:
-1. Theoritical Neuroscience - Dayan, Abbott
+1. Theoretical Neuroscience - Dayan, Abbott
 2. The Computational Brain by Terrence Sejnowiski & Patricia Churchland
 3. Collaborative learning: Cognitive and computational approaches by P Dillenbourg
 
