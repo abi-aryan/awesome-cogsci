@@ -42,6 +42,10 @@ ACADEMIC LABS:
 6. Rotman Research Institute	
 7. Gatsby Computational Neuroscience Unit
 8. UCL	Allen Institute for Brain Science	
+9. Computational Neuroscience Lab, Institute of Computer Science, University of Tartu
+
+
+
 
 PRIVATE LABS: 
 
