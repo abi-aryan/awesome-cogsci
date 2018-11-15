@@ -23,7 +23,9 @@ NON-FICTION:
 
 FICTION:
 1. [The Man Who Mistook His Wife for a Hat and Other Clinical Tales](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales) -  Oliver Sacks
-2. [Phantoms in the Brain: Probing the Mysteries of the Human Mind](https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain) -  V.S. Ramachandran,  Sandra Blakeslee, Oliver Sacks
+
+CASE STUDY:
+1. [Phantoms in the Brain: Probing the Mysteries of the Human Mind](https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain) -  V.S. Ramachandran,  Sandra Blakeslee, Oliver Sacks
 
 # MOOCs and Blogs You Must Follow
 
