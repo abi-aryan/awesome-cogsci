@@ -35,6 +35,7 @@ FICTION:
 
 CASE STUDY:
 1. [Phantoms in the Brain: Probing the Mysteries of the Human Mind](https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain) -  V.S. Ramachandran,  Sandra Blakeslee, Oliver Sacks
+2. The Power of Habit - Charles Duhhigg
 
 # MOOCs and Blogs You Must Follow
 
