@@ -20,9 +20,18 @@ NON-FICTION:
 1. Theoretical Neuroscience - Dayan, Abbott
 2. The Computational Brain by Terrence Sejnowiski & Patricia Churchland
 3. Collaborative learning: Cognitive and computational approaches by P Dillenbourg
+4. An Ecological Approach to Visual Perception -  Gibson, James J
+5. The New Executive Brain: Goldberg, Elkhonon
+6. The Neuropsychology of Anxiety: Gray, Jeffrey and Neil McNaughton
+7. The Emotional Brain: LeDoux, Joseph
+8. Affective Neuroscience: Panksepp, Jaak
+9. Brain Architecture: Understanding the Basic Plan: Swanson, Larry
+
 
 FICTION:
 1. [The Man Who Mistook His Wife for a Hat and Other Clinical Tales](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales) -  Oliver Sacks
+2. Awakenings - Oliver Sacks
+3. An Anthropologist on Mars - Oliver Sacks
 
 CASE STUDY:
 1. [Phantoms in the Brain: Probing the Mysteries of the Human Mind](https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain) -  V.S. Ramachandran,  Sandra Blakeslee, Oliver Sacks
