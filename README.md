@@ -91,6 +91,7 @@ PRIVATE LABS:
 19. TM Mitchell	
 20. MA Wheeler	
 21. E Tulving
+22. Jordan Peterson
 
 # Relevant Conferences
 1. COSYNE	
