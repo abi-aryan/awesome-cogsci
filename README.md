@@ -1,12 +1,13 @@
 # [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) Cognitive Science
 
-As the name goes, our aim is to create a reference guide for all the information that could serve as a great guiding point to someone who is getting started in research that lies at the intersection of the beautifully meshed fields studied under a catch-all called Cognitive Science. 
+As the name goes, our aim is to create a reference guide for all the information that could serve as a great guiding point to someone who is getting started in research that lies at the intersection of the beautifully meshed fields studied under a catch-all called Cognitive Sciences. 
 
 Maintained by: [Abi Aryan](https://twitter.com/GoAbiAryan) 
 
 To contribute, please go through the [Contribution Guidelines](https://github.com/abi-aryan/awesome-cogsci/blob/master/CONTRIBUTING.md) first. Please feel free to contribute by opening a new issue/pull request or responding to existing ones. 
 
 # Why Study this Intersection? 
+Cognitive Sciences refers to the study of thought, learning, and mental organization, which draws on aspects of psychology, linguistics, philosophy, and computer science. 
 
 # Future Scope 
 
