@@ -95,7 +95,7 @@ PRIVATE LABS:
 # Top Challenges and Open Problems in the Field
 
 # Notable Researchers in the Field (in no particular order)
-1. Terrence Sejnowiski	
+1. Terrence Sejnowski	
 2. Patricia Churchland	
 3. Oriol Vinayls	
 4. Shakir Md.	
