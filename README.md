@@ -26,16 +26,42 @@ NON-FICTION:
 7. The Emotional Brain: LeDoux, Joseph
 8. Affective Neuroscience: Panksepp, Jaak
 9. Brain Architecture: Understanding the Basic Plan: Swanson, Larry
+10. [Mindware: An Introduction to the Philosophy of Cognitive Science](https://www.amazon.com/gp/product/B00NPMEXY4/): Andy Clark
+11. [Being There: Putting Brain, Body, and World Together Again](https://www.amazon.com/gp/product/0262531569/): Andy Clark
+12. [Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence](https://www.amazon.com/gp/product/0195177517/): Andy Clark
+13. [Supersizing the Mind: Embodiment, Action, and Cognitive Extension](https://www.amazon.com/gp/product/0199773688/): Andy Clark
+14. [Surfing Uncertainty: Prediction, Action, and the Embodied Mind](https://www.amazon.com/gp/product/0190933216/): Andy Clark
+15. [Reasoning about Knowledge](https://www.amazon.com/Reasoning-About-Knowledge-Bradford-Book/dp/0262562006/): Joe Halpern et. al.
+16. [Becoming Human: A Theory of Ontogeny](https://www.amazon.com/Becoming-Human-Ontogeny-Michael-Tomasello/dp/0674980859/) - Michael Tomasello
+17. [A Natural History of Human Thinking](https://www.amazon.com/Natural-History-Human-Thinking/dp/0674724771/)- Michael Tomasello
+18. [Why We Cooperate](https://www.amazon.com/Why-Cooperate-Boston-Review-Books/dp/0262013592/)- Michael Tomasello
+19. [Constructing a Language: A Usage-Based Theory of Language Acquisition](https://www.amazon.com/Cultural-Origins-Human-Cognition/dp/0674005821/)- Michael Tomasello
+20. [The Cultural Origins of Human Cognition](https://www.amazon.com/Cultural-Origins-Human-Cognition/dp/0674005821/)- Michael Tomasello
+21. [Reinforcement Learning](hhttps://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/)- Richard Sutton
+22. The Oxford Handbook of Computational and Mathematical Pyschology -  Jerome Busemeyer
+23. Human Cognitive Processing: Analogical Modelling 
+24. Mind & Nature - Gregory Bateson
+25. Steps to an Oncology of Mind - Gregory Bateson
+26. Non-linear Dynamics in Human Behavior - Armin Fuchs et. al.
+27. [Quantitative Models in Psychology](https://www.amazon.com/Quantitative-Models-Psychology-Robert-McGrath/dp/1433809591/)- Robert McGrath
+28. [Actual Causality](https://www.amazon.com/Actual-Causality-Press-Joseph-Halpern/dp/0262537133/)- Joe Halpern
 
 
 FICTION:
 1. [The Man Who Mistook His Wife for a Hat and Other Clinical Tales](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales) -  Oliver Sacks
 2. Awakenings - Oliver Sacks
 3. An Anthropologist on Mars - Oliver Sacks
+4. [Machines Like Me](https://www.amazon.com/Machines-Like-Me-Ian-McEwan/dp/0385545118/)- Ian McEwan
 
 CASE STUDY:
 1. [Phantoms in the Brain: Probing the Mysteries of the Human Mind](https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain) -  V.S. Ramachandran,  Sandra Blakeslee, Oliver Sacks
 2. The Power of Habit - Charles Duhhigg
+3. Atomic Habits - James Clear
+4. Machine Intelligence: Perspectives on the Computational Model- Andy Clark, Toribio
+5. The Siliman Memorial Lecture Series on the Computer and the Brain - John von Neumann, Ray Kurzweil 
+6. Choices, Values, and Frames - Amos Tversky, Daniel Kahenmann
+7. Thinking Fast and Slow - Daniel Kahenmann
+8. Preference, Belief, and Similarity: Selected Writings - Amos Tversky
 
 # MOOCs and Blogs You Must Follow
 
@@ -57,8 +83,6 @@ ACADEMIC LABS:
 9. Computational Neuroscience Lab, Institute of Computer Science, University of Tartu
 
 
-
-
 PRIVATE LABS: 
 
 1. Human Connectome Project
@@ -70,7 +94,7 @@ PRIVATE LABS:
 
 # Top Challenges and Open Problems in the Field
 
-# Notable Researchers in the Field
+# Notable Researchers in the Field (in no particular order)
 1. Terrence Sejnowiski	
 2. Patricia Churchland	
 3. Oriol Vinayls	
@@ -93,6 +117,21 @@ PRIVATE LABS:
 20. MA Wheeler	
 21. E Tulving
 22. Jordan Peterson
+23. Josh Tennenbaum
+24. Feiry Cushman
+25. Andy Clark
+26. Carol Dweck
+27. Richard Sutton
+28. Judea Pearl
+29. Jerome Busemeyer
+29. Brendt Brehmer
+30. Yoav Shoham
+31. Richard Thaler
+32. Cass R. Sunstein
+33. Dan Ariely
+34. Herbert Simon 
+35. John Von Neumann 
+36. Joseph Halpern
 
 # Relevant Conferences
 1. COSYNE	
