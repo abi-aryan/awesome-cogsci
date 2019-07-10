@@ -1,4 +1,4 @@
-# psych-neuro-cs
+# Cognitive Sciences
 
 [![Join the chat at https://gitter.im/psych-neuro-cs/Lobby](https://badges.gitter.im/psych-neuro-cs/Lobby.svg)](https://gitter.im/psych-neuro-cs/Lobby) - Not active right now !! 
 
