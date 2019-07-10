@@ -131,7 +131,7 @@ PRIVATE LABS:
 33. Dan Ariely
 34. Herbert Simon 
 35. John Von Neumann 
-36. Joseph Halpern
+36. Joseph (Joe) Halpern
 
 # Relevant Conferences
 1. COSYNE	
