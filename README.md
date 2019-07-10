@@ -1,7 +1,5 @@
 # [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) Cognitive Science
 
-<!-- [![Join the chat at https://gitter.im/psych-neuro-cs/Lobby](https://badges.gitter.im/psych-neuro-cs/Lobby.svg)](https://gitter.im/psych-neuro-cs/Lobby) --!>
-
 [![Build Status](https://travis-ci.org/abi-aryan/psych-neuro-cs.svg?branch=master)](https://travis-ci.org/abi-aryan/psych-neuro-cs) 
 
 As the name goes, our aim is to create a reference guide for all the information that could serve as a great guiding point to someone who is getting started in research that lies at the intersection of these three beautifully meshed fields of Psychology, Neuroscience and Computer Science . 
