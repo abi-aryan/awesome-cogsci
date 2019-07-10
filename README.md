@@ -66,6 +66,7 @@ CASE STUDY:
 
 1. [Neuroecology](https://neuroecology.wordpress.com/) by Adam J. Calhoun 
 2. [Simulation Neuroscience](https://www.edx.org/course/simulation-neuroscience-epflx-simneurox)
+3. [Advancing AI through Cognitive Sciences](https://brendenlake.github.io/AAI-site/)
 
 # Become a Professional Researcher in the Subject 
 
