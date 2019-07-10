@@ -1,6 +1,6 @@
 # [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) Cognitive Science
 
-[![Join the chat at https://gitter.im/psych-neuro-cs/Lobby](https://badges.gitter.im/psych-neuro-cs/Lobby.svg)](https://gitter.im/psych-neuro-cs/Lobby) - Not active right now !! 
+!! [![Join the chat at https://gitter.im/psych-neuro-cs/Lobby](https://badges.gitter.im/psych-neuro-cs/Lobby.svg)](https://gitter.im/psych-neuro-cs/Lobby)
 
 [![Build Status](https://travis-ci.org/abi-aryan/psych-neuro-cs.svg?branch=master)](https://travis-ci.org/abi-aryan/psych-neuro-cs) 
 
