@@ -1,6 +1,6 @@
 # psych-neuro-cs
 
-[![Join the chat at https://gitter.im/psych-neuro-cs/Lobby](https://badges.gitter.im/psych-neuro-cs/Lobby.svg)](https://gitter.im/psych-neuro-cs/Lobby)
+[![Join the chat at https://gitter.im/psych-neuro-cs/Lobby](https://badges.gitter.im/psych-neuro-cs/Lobby.svg)](https://gitter.im/psych-neuro-cs/Lobby) - Not active right now !! 
 
 [![Build Status](https://travis-ci.org/abi-aryan/psych-neuro-cs.svg?branch=master)](https://travis-ci.org/abi-aryan/psych-neuro-cs) 
 
