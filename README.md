@@ -45,7 +45,6 @@ NON-FICTION:
 27. [Quantitative Models in Psychology](https://www.amazon.com/Quantitative-Models-Psychology-Robert-McGrath/dp/1433809591/)- Robert McGrath
 28. [Actual Causality](https://www.amazon.com/Actual-Causality-Press-Joseph-Halpern/dp/0262537133/)- Joe Halpern
 
-
 FICTION:
 1. [The Man Who Mistook His Wife for a Hat and Other Clinical Tales](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales) -  Oliver Sacks
 2. Awakenings - Oliver Sacks
@@ -61,6 +60,7 @@ CASE STUDY:
 6. Choices, Values, and Frames - Amos Tversky, Daniel Kahenmann
 7. Thinking Fast and Slow - Daniel Kahenmann
 8. Preference, Belief, and Similarity: Selected Writings - Amos Tversky
+9. [The Embodied Mind: Cognitive Science and Human Experience](https://www.amazon.de/Embodied-Mind-Cognitive-Science-Experience/dp/026252936X/) - Francisco J. Varela 
 
 # MOOCs and Blogs You Must Follow
 
