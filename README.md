@@ -153,4 +153,6 @@ PRIVATE LABS:
 3. The Journal of Neuroscience Methods
 
 # Relevant Resources
+* [ACLAS Neuro-Edu SDK](https://github.com/aclascollege/neuro-edu) - Autonomous cognitive simulation framework for AI-powered education, modeling human knowledge acquisition with neural kernels and thermodynamic entropy analysis.
+
 1. For asking questions [Psychology and Neuroscience beta - Stack Exchange](https://psychology.stackexchange.com/)
