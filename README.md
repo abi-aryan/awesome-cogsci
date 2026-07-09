@@ -154,3 +154,4 @@ PRIVATE LABS:
 
 # Relevant Resources
 1. For asking questions [Psychology and Neuroscience beta - Stack Exchange](https://psychology.stackexchange.com/)
+2. [IntelligenceMax](https://intelligencemax.ai) — live reasoning gym with adaptive distinction items and honest IQ-style scoring (IRT); includes an [evidence-ranked guide](https://intelligencemax.ai/guide) to intelligence improvement and [measurement notes](https://intelligencemax.ai/science)
