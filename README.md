@@ -87,6 +87,11 @@ PRIVATE LABS:
 
 1. Human Connectome Project
 
+# Online Tools & Experiments
+
+1. [Mind Traps Quiz](https://ordinarymantrying.com/tools/mind-traps.html) - Scenario-based quiz measuring whether you can *apply* cognitive biases in real decisions (not just recognize them). 8,000+ participants; 72% miss Confirmation Bias despite knowing the definition. [GitHub](https://github.com/daligao/psychology-laws-awesome)
+2. [Working Memory Test](https://ordinarymantrying.com/tools/digit-memory-test/) - Dual-task working memory challenge: memorize digit strings while reading a quote. Benchmarked against WAIS-IV norms. Open source. [GitHub](https://github.com/daligao/working-memory-test)
+
 # Global Projects and Funding Organisations
 
 1. [White House Brain Initiative](http://www.braininitiative.org/)
