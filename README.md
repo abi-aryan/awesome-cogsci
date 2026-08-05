@@ -158,5 +158,7 @@ PRIVATE LABS:
 3. The Journal of Neuroscience Methods
 
 # Relevant Resources
+* [ACLAS Neuro-Edu SDK](https://github.com/aclascollege/neuro-edu) - Autonomous cognitive simulation framework for AI-powered education, modeling human knowledge acquisition with neural kernels and thermodynamic entropy analysis.
+
 1. For asking questions [Psychology and Neuroscience beta - Stack Exchange](https://psychology.stackexchange.com/)
 2. [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - Interactive quiz on 40 psychology laws and cognitive biases. Applies cogsci concepts (decision-making, perception, social cognition) through 320+ real-world scenarios.
