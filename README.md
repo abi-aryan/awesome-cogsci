@@ -91,6 +91,7 @@ PRIVATE LABS:
 
 1. [Mind Traps Quiz](https://ordinarymantrying.com/tools/mind-traps.html) - Scenario-based quiz measuring whether you can *apply* cognitive biases in real decisions (not just recognize them). 8,000+ participants; 72% miss Confirmation Bias despite knowing the definition. [GitHub](https://github.com/daligao/psychology-laws-awesome)
 2. [Working Memory Test](https://ordinarymantrying.com/tools/digit-memory-test/) - Dual-task working memory challenge: memorize digit strings while reading a quote. Benchmarked against WAIS-IV norms. Open source. [GitHub](https://github.com/daligao/working-memory-test)
+3. [IQMAXXING](https://iqmaxxing.org/) - Free browser versions of classic working-memory and attention tasks: single, dual and quad n-back, digit and Corsi span, operation, reading and symmetry span, go/no-go and Stroop. Hits, misses and false alarms are scored per stream with d′, the n-back level moves up or down with your accuracy, and runs are kept in a history tied to your browser, with JSON export. No account needed.
 
 # Global Projects and Funding Organisations
 
