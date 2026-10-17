@@ -82,7 +82,6 @@ ACADEMIC LABS:
 8. UCL	Allen Institute for Brain Science	
 9. Computational Neuroscience Lab, Institute of Computer Science, University of Tartu
 
-
 PRIVATE LABS: 
 
 1. Human Connectome Project
@@ -158,5 +157,6 @@ PRIVATE LABS:
 3. The Journal of Neuroscience Methods
 
 # Relevant Resources
+
 1. For asking questions [Psychology and Neuroscience beta - Stack Exchange](https://psychology.stackexchange.com/)
 2. [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - Interactive quiz on 40 psychology laws and cognitive biases. Applies cogsci concepts (decision-making, perception, social cognition) through 320+ real-world scenarios.
