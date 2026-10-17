@@ -82,7 +82,6 @@ ACADEMIC LABS:
 8. UCL	Allen Institute for Brain Science	
 9. Computational Neuroscience Lab, Institute of Computer Science, University of Tartu
 
-
 PRIVATE LABS: 
 
 1. Human Connectome Project
@@ -153,6 +152,5 @@ PRIVATE LABS:
 3. The Journal of Neuroscience Methods
 
 # Relevant Resources
-* [ACLAS Neuro-Edu SDK](https://github.com/aclascollege/neuro-edu) - Autonomous cognitive simulation framework for AI-powered education, modeling human knowledge acquisition with neural kernels and thermodynamic entropy analysis.
 
 1. For asking questions [Psychology and Neuroscience beta - Stack Exchange](https://psychology.stackexchange.com/)
