@@ -160,3 +160,4 @@ PRIVATE LABS:
 # Relevant Resources
 1. For asking questions [Psychology and Neuroscience beta - Stack Exchange](https://psychology.stackexchange.com/)
 2. [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - Interactive quiz on 40 psychology laws and cognitive biases. Applies cogsci concepts (decision-making, perception, social cognition) through 320+ real-world scenarios.
+3. [Turbo-Suslik System 2.1: Engineer's Edition](https://github.com/Dmitry-Leushkin/Turbo-Suslik-2.1-Engineer-s-Edition) - Open-source specification of a protocol-based cognitive processing architecture. CC-BY-4.0, Zenodo DOI: 10.5281/zenodo.24138390.
